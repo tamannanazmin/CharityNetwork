@@ -1,5 +1,5 @@
 ## Charity Network
-charity network, is an app which will serve,as a communication platform between donors and charitable organizations. 
+charity network, is an app which will serve,as a communication platform among donors, volunteers and charitable organizations. 
 Through this app, donors will be able to search for charitable organizations through google map
 and charitable events at their fingertips.Mean while organizations will be able to enjoy the privilege of seeking and collecting
 funds without any hassle. Another important feature of this application is provisions for volunteering. Anyone who
